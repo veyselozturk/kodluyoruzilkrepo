@@ -13,18 +13,3 @@ git clone https://github.com/veyselozturk/kodluyoruzilkrepo.git
 ![Acıklama bilgisi](https://picsum.photos/id/10/1000/300)
 
 # Veysel Ozturk
-
-## Electrical Electronics Engineer
-
-## Software Doveloper
-***
-> ### [__My LinkedIn Profile__](http://linkedin.com/in/veysel-ozturk/)
-***
-
-```javascript
-function helloWorld(){
-    console.log("hello world");
-}
-```
-
-***
